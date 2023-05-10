@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+__pycache__/
+venv/
+.env
+logging.log
+/logs/
+.vagrant
+.focal-server-cloudimg-amd64-vagrant.box
